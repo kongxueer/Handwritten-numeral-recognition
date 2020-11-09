@@ -1,2 +1,2 @@
 # Handwritten-numeral-recognition
-手写数字识别
+基于pytorch的手写数字识别
